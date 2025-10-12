@@ -21,7 +21,7 @@
 **Cybersecurity professional** specializing in **penetration testing**, **red teaming**, and **security assessment**. I combine advanced technical expertise with a methodical approach to help organizations strengthen their security posture and assist aspiring professionals in their certification journey.
 
 **📍 Location:** Barcelona, Spain 🇪🇸  
-**🗣️ Languages:** French (native), English (professional)
+**🗣️ Languages:** French (native), English (professional), Spanish (conversational)  
 **🎓 Background:** Educational sector → Cybersecurity expertise
 
 ---
@@ -77,7 +77,7 @@
 
 ### 🔥 **Professional Resources for Certification Aspirants**
 
-#### 🎯 [OSCP-Professional-CheatSheet](https://github.com/manassoue/manassoue/OSCP-Professional-CheatSheet)
+#### 🎯 [OSCP-Professional-CheatSheet](https://github.com/manassoue/OSCP-Professional-CheatSheet)
 **Comprehensive penetration testing resource for certification candidates**
 - Industry-proven PTES methodology
 - Advanced exploitation techniques and payloads
@@ -85,7 +85,7 @@
 - Real-world scenarios and case studies
 - `⭐ 200+ stars` `🍴 75+ forks`
 
-#### 🏰 [Active-Directory-Attack-Lab](https://github.com/manassoue/manassoue/Active-Directory-Attack-Lab)
+#### 🏰 [Active-Directory-Attack-Lab](https://github.com/manassoue/Active-Directory-Attack-Lab)
 **Complete AD security testing environment with automated setup**
 - Realistic vulnerable AD infrastructure
 - Step-by-step attack scenarios (CRTP/CRTA focused)
@@ -93,7 +93,7 @@
 - Comprehensive remediation guides
 - `⭐ 150+ stars` `🍴 45+ forks`
 
-#### 🌐 [WebApp-Security-Testing-Suite](https://github.com/manassoue/manassoue/WebApp-Security-Testing-Suite)
+#### 🌐 [WebApp-Security-Testing-Suite](https://github.com/manassoue/WebApp-Security-Testing-Suite)
 **Professional web application security assessment toolkit**
 - Automated vulnerability detection (eWPTX/eCPPT aligned)
 - OWASP Top 10 coverage with proof-of-concepts
@@ -101,7 +101,7 @@
 - Professional report generation templates
 - `⭐ 120+ stars` `🍴 35+ forks`
 
-#### 📚 [Cybersecurity-Certification-Prep](https://github.com/manassoue/manassoue/Cybersecurity-Certification-Prep)
+#### 📚 [Cybersecurity-Certification-Prep](https://github.com/manassoue/Cybersecurity-Certification-Prep)
 **Comprehensive study materials and practical labs**
 - Certification-specific study guides and roadmaps
 - Hands-on laboratory exercises with walkthroughs
@@ -160,8 +160,8 @@
 ## 🎓 Continuous Learning & Development
 
 ### **Training Platforms & Achievements**
-- **TryHackMe**: multiple pathway completions
-- **HackTheBox**: Pro Labs completion
+- **TryHackMe**: Top 3% global ranking, multiple pathway completions
+- **HackTheBox**: Active contributor, Pro Labs completion
 - **VulnHub**: Regular practice on vulnerable machine scenarios
 - **PortSwigger Academy**: Web Security expert level achievements
 - **Pentester Academy**: Advanced Red Team and Active Directory specializations
@@ -178,6 +178,8 @@
 
 <!--START_SECTION:activity-->
 - 🔒 Updated **OSCP-Professional-CheatSheet** with latest techniques
+- ⭐ Contributed to **BloodHound** community scripts
+- 🍴 Enhanced **Impacket** tool documentation
 - 💬 Mentored aspiring professionals in certification preparation
 - 🎯 Published new methodology in **Active Directory** assessment
 <!--END_SECTION:activity-->
