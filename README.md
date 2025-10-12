@@ -77,7 +77,7 @@
 
 ### 🔥 **Professional Resources for Certification Aspirants**
 
-#### 🎯 [OSCP-Professional-CheatSheet](https://github.com/manassoue/OSCP-Professional-CheatSheet)
+#### 🎯 [OSCP-Professional-CheatSheet](https://github.com/manassoue/manassoue-OSCP-Professional-CheatSheet)
 **Comprehensive penetration testing resource for certification candidates**
 - Industry-proven PTES methodology
 - Advanced exploitation techniques and payloads
