@@ -93,7 +93,7 @@
 - Comprehensive remediation guides
 - `⭐ 150+ stars` `🍴 45+ forks`
 
-#### 🌐 [WebApp-Security-Testing-Suite](https://github.com/manassoue/manassoue/WebApp-Security-Testing-Suite)
+#### 🌐 [WebApp-Security-Testing-Suite](https://github.com/manassoue/OSCP-Professional-CheatSheet#-web-application-security)
 **Professional web application security assessment toolkit**
 - Automated vulnerability detection (eWPTX/eCPPT aligned)
 - OWASP Top 10 coverage with proof-of-concepts
@@ -101,7 +101,7 @@
 - Professional report generation templates
 - `⭐ 120+ stars` `🍴 35+ forks`
 
-#### 📚 [Cybersecurity-Certification-Prep](https://github.com/manassoue/manassoue/Cybersecurity-Certification-Prep)
+#### 📚 [Cybersecurity-Certification-Prep](https://github.com/manassoue/OSCP-Professional-CheatSheet#-certification-preparation-guide)
 **Comprehensive study materials and practical labs**
 - Certification-specific study guides and roadmaps
 - Hands-on laboratory exercises with walkthroughs
