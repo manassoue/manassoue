@@ -85,7 +85,7 @@
 - Real-world scenarios and case studies
 - `⭐ 200+ stars` `🍴 75+ forks`
 
-#### 🏰 [Active-Directory-Attack-Lab](https://github.com/manassoue/manassoue/Active-Directory-Attack-Lab)
+#### 🏰 [Active-Directory-Attack-Lab](https://github.com/manassoue/OSCP-Professional-CheatSheet#-active-directory--kerberos)
 **Complete AD security testing environment with automated setup**
 - Realistic vulnerable AD infrastructure
 - Step-by-step attack scenarios (CRTP/CRTA focused)
