@@ -77,7 +77,7 @@
 
 ### 🔥 **Professional Resources for Certification Aspirants**
 
-#### 🎯 [OSCP-Professional-CheatSheet](https://github.com/manassoue/OSCP-Professional-CheatSheet)
+#### 🎯 [OSCP-Professional-CheatSheet](https://github.com/manassoue/manassoue/OSCP-Professional-CheatSheet)
 **Comprehensive penetration testing resource for certification candidates**
 - Industry-proven PTES methodology
 - Advanced exploitation techniques and payloads
@@ -85,7 +85,7 @@
 - Real-world scenarios and case studies
 - `⭐ 200+ stars` `🍴 75+ forks`
 
-#### 🏰 [Active-Directory-Attack-Lab](https://github.com/manassoue/Active-Directory-Attack-Lab)
+#### 🏰 [Active-Directory-Attack-Lab](https://github.com/manassoue/manassoue/Active-Directory-Attack-Lab)
 **Complete AD security testing environment with automated setup**
 - Realistic vulnerable AD infrastructure
 - Step-by-step attack scenarios (CRTP/CRTA focused)
@@ -93,7 +93,7 @@
 - Comprehensive remediation guides
 - `⭐ 150+ stars` `🍴 45+ forks`
 
-#### 🌐 [WebApp-Security-Testing-Suite](https://github.com/manassoue/WebApp-Security-Testing-Suite)
+#### 🌐 [WebApp-Security-Testing-Suite](https://github.com/manassoue/manassoue/WebApp-Security-Testing-Suite)
 **Professional web application security assessment toolkit**
 - Automated vulnerability detection (eWPTX/eCPPT aligned)
 - OWASP Top 10 coverage with proof-of-concepts
@@ -101,7 +101,7 @@
 - Professional report generation templates
 - `⭐ 120+ stars` `🍴 35+ forks`
 
-#### 📚 [Cybersecurity-Certification-Prep](https://github.com/manassoue/Cybersecurity-Certification-Prep)
+#### 📚 [Cybersecurity-Certification-Prep](https://github.com/manassoue/manassoue/Cybersecurity-Certification-Prep)
 **Comprehensive study materials and practical labs**
 - Certification-specific study guides and roadmaps
 - Hands-on laboratory exercises with walkthroughs
