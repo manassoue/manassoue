@@ -178,8 +178,6 @@
 
 <!--START_SECTION:activity-->
 - 🔒 Updated **OSCP-Professional-CheatSheet** with latest techniques
-- ⭐ Contributed to **BloodHound** community scripts
-- 🍴 Enhanced **Impacket** tool documentation
 - 💬 Mentored aspiring professionals in certification preparation
 - 🎯 Published new methodology in **Active Directory** assessment
 <!--END_SECTION:activity-->
