@@ -11,6 +11,7 @@
 ![eCPPT](https://img.shields.io/badge/eCPPT-Certified-yellow?style=for-the-badge)
 ![eWPTX](https://img.shields.io/badge/eWPTX-Certified-orange?style=for-the-badge)
 ![eJPT](https://img.shields.io/badge/eJPT-Certified-lightblue?style=for-the-badge)
+![PNTP](https://img.shields.io/badge/PNPT-Certified-purple?style=for-the-badge)
 
 </div>
 
