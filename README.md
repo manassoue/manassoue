@@ -4,14 +4,15 @@
 
 <div align="center">
 
-![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge)
-![CEH](https://img.shields.io/badge/CEH-Certified-blue?style=for-the-badge)
-![CRTP](https://img.shields.io/badge/CRTP-Certified-green?style=for-the-badge)
-![CRTA](https://img.shields.io/badge/CRTA-Certified-purple?style=for-the-badge)
-![eCPPT](https://img.shields.io/badge/eCPPT-Certified-yellow?style=for-the-badge)
-![eWPTX](https://img.shields.io/badge/eWPTX-Certified-orange?style=for-the-badge)
-![eJPT](https://img.shields.io/badge/eJPT-Certified-lightblue?style=for-the-badge)
-![PNTP](https://img.shields.io/badge/PNPT-Certified-purple?style=for-the-badge)
+![OSCP](https://img.shields.io/badge/OSCP-red?style=for-the-badge)
+![CEH](https://img.shields.io/badge/CEH-blue?style=for-the-badge)
+![PNTP](https://img.shields.io/badge/PNPT-purple?style=for-the-badge)
+![CRTP](https://img.shields.io/badge/CRTP-green?style=for-the-badge)
+![CRTA](https://img.shields.io/badge/CRTA-purple?style=for-the-badge)
+![eCPPT](https://img.shields.io/badge/eCPPT-yellow?style=for-the-badge)
+![eWPTX](https://img.shields.io/badge/eWPTX-orange?style=for-the-badge)
+![eJPT](https://img.shields.io/badge/eJPT-lightblue?style=for-the-badge)
+![CLF-C02](https://img.shields.io/badge/CLF_C02-purple?style=for-the-badge)
 
 </div>
 
