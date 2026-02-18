@@ -178,10 +178,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assouemanasse@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manassoue)
 
-**📧 Professional Contact:** assouemanasse@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/manasse](https://linkedin.com/in/manasse)  
-**🐙 GitHub:** [github.com/manassoue](https://github.com/manassoue)
-
 </div>
 
 ---
@@ -209,10 +205,7 @@
 
 ** If my resources help your certification journey, please star the repositories! **
 
-![Profile Views](https://komarev.com/ghpvc/?username=manassoue&color=red&style=flat-square&label=Profile+Views)
-
 </div>
-
 ---
 
 ** Status:** Actively contributing to cybersecurity education and community
