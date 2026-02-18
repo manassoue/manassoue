@@ -39,6 +39,7 @@
 | **eCPPT** | eLearnSecurity | ✅ **Certified** |
 | **eWPTX** | eLearnSecurity | ✅ **Certified** |
 | **eJPT** | eLearnSecurity | ✅ **Certified** |
+| **PNPT** |   TCM Security | ✅ **Certified** |
 
 </div>
 
